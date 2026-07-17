@@ -1,0 +1,7 @@
+# Configuración local de herramientas (no forma parte del proyecto)
+.claude/
+
+# Basura del sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store

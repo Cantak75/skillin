@@ -1,0 +1,9 @@
+# Bloquea el acceso HTTP directo a cualquier fichero de esta carpeta
+# (credenciales de BD y SMTP). Solo debe leerse desde PHP (require_once).
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+    Order deny,allow
+    Deny from all
+</IfModule>
