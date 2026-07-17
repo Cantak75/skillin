@@ -90,7 +90,7 @@ Cuentas de prueba resultantes:
 
 | Rol            | Nombre                       | Email                                   | Empresa                    | Contraseña |
 |-----------------|-------------------------------|-------------------------------------------|-----------------------------|------------|
-| Administrador   | Constantino Alexopoulos Real  | tak@tagtak.com                            | Skillin                     | 1234       |
+| Administrador   | Constantino Alexopoulos Real  | admin@skillin.com                            | Skillin                     | 1234       |
 | RRHH            | Laura Martín Sánchez          | laura.martin@albaconstrucciones.com       | Alba Construcciones S.L.    | 1234       |
 | RRHH            | Carlos Ruiz Pérez             | carlos.ruiz@innotech.com                  | Innotech S.L.               | 1234       |
 | Trabajador      | Ana García López              | ana.garcia@innotech.com                   | Innotech S.L.               | 1234       |
